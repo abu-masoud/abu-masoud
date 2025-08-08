@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://linkedin.com/in/رمضان-مسعود-19aa802bb" target="x_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="رمضان مسعود" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rmdan.ms.wd.238407" target="x_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="رمضان مسعود" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/رمضان-مسعود-19aa802bb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="رمضان مسعود" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rmdan.ms.wd.238407" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="رمضان مسعود" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
