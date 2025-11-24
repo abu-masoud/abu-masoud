@@ -1,57 +1,21 @@
-<h1 align="center">Hello World👋, I'm Ramadan Masoud</h1>
-<h3 align="center">A passionate Full-Stack Web-Developer</h3>
+# Personal Portfolio — Architecture Student
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlhZ202Z2Y3Zzh6aXhta3VidTRqaTBzYjQ3dnBodDV4ZnZtd2J1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" />
+A single-page website for showcasing architectural studio work, photo studies, and writing. The layout highlights a hero introduction, photo gallery, project spotlights, and a contact form.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-masoud&label=Profile%20views&color=0e75b6&style=flat" alt="abu-masoud" /> </p>
+## Preview
+- Hero introduction with current focus and studio details
+- Photo grid with a click-to-enlarge lightbox
+- Cards for recent projects and blog-style notes
+- Highlighted feature project and contact section
 
-- 🔭 I’m currently working on [my coded portfolio website](https://abu-masoud.github.io/ramadan_portfolio_1/)
+## Structure
+- `index.html` — main page markup with hero, gallery, projects, blog, and contact sections.
+- `styles.css` — modern dark theme with gradients, glassmorphism accents, and responsive grids.
+- `script.js` — handles the mobile nav toggle and the gallery lightbox.
 
-- 🌱 I’m currently learning **full-stack web Development**
+## Getting started
+1. Open `index.html` in your browser to view the site locally.
+2. Replace the placeholder copy and image links with your own work.
+3. Adjust colors and spacing in `styles.css` to match your personal brand.
 
-- 👨‍💻 All of my projects are available at [https://abu-masoud.github.io/ramadan_portfolio_1/](https://abu-masoud.github.io/ramadan_portfolio_1/)
-
-- 📝 I regularly write articles on [https://ramadan-masoud.com/](https://ramadan-masoud.com/)
-
-- 💬 Ask me about **Anything about tech**
-
-- 📫 How to reach me **alyanramadan2@gmail.com**
-
-- 📄 Know about my experiences [https://abu-masoud.github.io/ramadan_portfolio_1/](https://abu-masoud.github.io/ramadan_portfolio_1/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://linkedin.com/in/رمضان-مسعود-19aa802bb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="رمضان مسعود" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rmdan.ms.wd.238407" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="رمضان مسعود" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-masoud&show_icons=true&locale=en&layout=compact" alt="abu-masoud" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-masoud&show_icons=true&locale=en" alt="abu-masoud" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-masoud&" alt="abu-masoud" /></p>
+Feel free to expand the blog cards, add more gallery items, or connect the contact form to your preferred backend service.
